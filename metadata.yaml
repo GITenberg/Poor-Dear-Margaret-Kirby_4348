@@ -1,0 +1,32 @@
+_repo: Poor-Dear-Margaret-Kirby_4348
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norris, Kathleen Thompson
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '1247'
+    url: http://www.gutenberg.org/2009/agents/1247
+    wikipedia: http://en.wikipedia.org/wiki/Kathleen_Norris
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'American fiction -- 20th century'
+- GITenberg
+tableOfContents: Poor, dear Margaret Kirby -- Bridging the years -- The tide-marsh
+  -- What happened to Alanna -- The friendship of Alanna -- "S is for shiftless Susanna"
+  -- The last Carolan -- Making allowances for mamma -- The measure of Margaret Coppered
+  -- Miss Mix, kidnapper -- Shandon Waters -- Gayley the troubadour -- Dr. Bates and
+  Miss Sally -- The gay deceiver -- The rainbow's end -- Rosemary's stepmother --
+  Austin's girl -- Rising water.
+title: Poor, Dear Margaret Kirby
+url: http://www.gutenberg.org/ebooks/4348
